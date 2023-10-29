@@ -33,7 +33,7 @@ const Navbar = () => {
                     </div>
                 </aside>
 
-
+{/* 
 
                 <div class="w-full h-full flex flex-col justify-between">
 
@@ -53,7 +53,7 @@ const Navbar = () => {
                         </div>
                     </header>
                     
-                </div>
+                </div> */}
 
             </div>
         </div>
